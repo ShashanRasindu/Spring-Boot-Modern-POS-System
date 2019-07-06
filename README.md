@@ -6,7 +6,7 @@ git init
 ```
 2. Clone the repo
 ```sh
-git clone https://github.com/ShashanRasindu/Spring-Boot-Rest-API-ConnectionPool-Modern-POS-System
+git clone https://github.com/ShashanRasindu/Spring-Boot-Rest-API-ConnectionPool-Modern-Retail-Outlet-System
 ```
 3. Import project via Intellij Idea
 
@@ -52,4 +52,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Shashan Rasindu - [@linkedin](https://www.linkedin.com/in/shashan-rasindu-a44308158/) - shashanrasindu@gmail.com
 
-Project Link: [https://github.com/ShashanRasindu/Spring-Boot-Rest-API-ConnectionPool-Modern-POS-System](https://github.com/ShashanRasindu/Spring-Boot-Rest-API-ConnectionPool-Modern-POS-System)
+Project Link: [https://github.com/ShashanRasindu/Spring-Boot-Rest-API-ConnectionPool-Modern-Retail-Outlet-System](https://github.com/ShashanRasindu/Spring-Boot-Rest-API-ConnectionPool-Modern-Retail-Outlet-System)
